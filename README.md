@@ -43,7 +43,7 @@ The dataset used for this project is a modified version of the **Telco Customer 
 ## 🚀 Live Notebook
 
 You can view and run the full notebook directly on Google Colab here:  
-👉 [Click to View on Google Colab](https://colab.research.google.com/notebooks/intro.ipynb)
+👉 [Click to View on Google Colab](https://github.com/ANKIT-KUMAR-J/customer-churn-data/blob/main/Welcome_To_Colab.ipynb)
 
 > *(Replace above link with your actual shared Colab notebook link once uploaded)*
 
